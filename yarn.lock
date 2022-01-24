@@ -3835,9 +3835,9 @@
   integrity sha512-QzSuZMBuG5u8HqYz01qtMdg/Jfctlnvj1z/lYnIDXs/golxw0fxtRAHd9KrzjR7Yxz1qVeI00o0kiO3PmVdJ9w==
 
 "@types/prismjs@^1.16.2":
-  version "1.16.6"
-  resolved "https://registry.yarnpkg.com/@types/prismjs/-/prismjs-1.16.6.tgz#377054f72f671b36dbe78c517ce2b279d83ecc40"
-  integrity sha512-dTvnamRITNqNkqhlBd235kZl3KfVJQQoT5jkXeiWSBK7i4/TLKBNLV0S1wOt8gy4E2TY722KLtdmv2xc6+Wevg==
+  version "1.16.8"
+  resolved "https://registry.yarnpkg.com/@types/prismjs/-/prismjs-1.16.8.tgz#ce1b3a673d282937c3d4183d2ff88b9ccedd6d3b"
+  integrity sha512-I8v3yZIvhIwB55MhV+9+FhK5OMokviuQQP4vGmffW18iQGw5cyB6CaBGWFhcIJk+0cyi/PNhNPedlUYTAHoc2Q==
 
 "@types/prompts@^2.0.9":
   version "2.0.14"
